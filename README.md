@@ -14,7 +14,7 @@ choose mac intel or mac m1, download and extract file
 
 ## Step3: Install chromeselenium
 ```
-pip install chromeselenium
+pip install selenium
 ```
 ## Step4: run code here
 ```
